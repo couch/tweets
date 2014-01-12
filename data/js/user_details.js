@@ -1,11 +1,11 @@
 var user_details =  {
-  "expanded_url" : "http://williamcouch.com",
+  "expanded_url" : "http:\/\/williamcouch.com",
   "screen_name" : "couch",
-  "location" : "San Francisco, CA",
-  "url" : "http://t.co/qpq1Pywx",
+  "location" : "San Francisco, Calif.",
+  "url" : "http:\/\/t.co\/3RLWjy5DC3",
   "full_name" : "Bill Couch",
-  "bio" : "Photographer, designer, cyclist. Front-end product engineer at Twitter.",
+  "bio" : "Photographer, designer, storyteller, cyclist. In pursuit of adventure. Product engineer at Twitter.",
   "id" : "631823",
-  "created_at" : "Sat Jan 13 22:43:16 +0000 2007",
+  "created_at" : "2007-01-13 22:43:16 +0000",
   "display_url" : "williamcouch.com"
 }
